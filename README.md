@@ -4,7 +4,7 @@ An exhaustive portfolio of all of my Data Analysis projects.
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thomas Adey
 ===================================================================================================================================
 
-Aspiring Data Analyst
+Design Meets Data
 ---------------------
 
 I am an aspiring data analyst with a creative career background. Together, these skills give me the power to combine data and design in a way few others can!
