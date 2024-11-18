@@ -11,7 +11,8 @@ I am an aspiring data analyst with a creative career background. Together, these
 
 *   🌍  I'm based in North East England
 *   ✉️  You can contact me at [t.adey@virginmedia.com](mailto:t.adey@virginmedia.com)
-*   ⚡  I have taken part in a 12 week Data Skills Bootcamp with JustIT in 2024 to develop my skills from scratch, with the intention of becoming a data analyst who can combine my design knowledge to create collateral in the digital screen and beyond!
+*   ⚡  I have taken part in a 12 week Data Skills Bootcamp with JustIT in 2024 to develop my skills from scratch, with the intention of becoming a data analyst who can combine my design knowledge to create collateral in the digital screen and beyond! My bachelors degree in Graphic Design may come as a surprise, but I’m working with data because I believe this has equipped me with a uniquely powerful skillset. In my spare time, I love programming and designing art for video games, and I wholeheartedly believe that creativity combined with technical understanding is one of the most valuable and in-demand skill combinations a person can have.
+*   Visit my portfolio website at: https://sites.google.com/view/thomas-adey/home?authuser=1
 
 Skills: 
 <p align="left">
